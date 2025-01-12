@@ -1,0 +1,93 @@
+[
+    {
+        "buySell": "B",
+        "price": 100,
+        "quantity": 50,
+        "sequence": 1,
+        "symbol": "AAPL"
+    },
+    {
+        "buySell": "B",
+        "price": 98,
+        "quantity": 30,
+        "sequence": 2,
+        "symbol": "AAPL"
+    },
+    {
+        "buySell": "S",
+        "price": 101,
+        "quantity": 20,
+        "sequence": 3,
+        "symbol": "AAPL"
+    },
+    {
+        "buySell": "S",
+        "price": 102,
+        "quantity": 10,
+        "sequence": 4,
+        "symbol": "AAPL"
+    },
+    {
+        "buySell": "B",
+        "price": 50,
+        "quantity": 40,
+        "sequence": 5,
+        "symbol": "META"
+    },
+    {
+        "buySell": "S",
+        "price": 55,
+        "quantity": 30,
+        "sequence": 6,
+        "symbol": "META"
+    },
+    {
+        "buySell": "S",
+        "price": 57,
+        "quantity": 20,
+        "sequence": 7,
+        "symbol": "META"
+    },
+    {
+        "buySell": "B",
+        "price": 150,
+        "quantity": 25,
+        "sequence": 8,
+        "symbol": "MSFT"
+    },
+    {
+        "buySell": "S",
+        "price": 155,
+        "quantity": 15,
+        "sequence": 9,
+        "symbol": "MSFT"
+    },
+    {
+        "buySell": "B",
+        "price": 148,
+        "quantity": 20,
+        "sequence": 10,
+        "symbol": "MSFT"
+    },
+    {
+        "buySell": "B",
+        "price": 3000,
+        "quantity": 10,
+        "sequence": 11,
+        "symbol": "AMZN"
+    },
+    {
+        "buySell": "B",
+        "price": 2999,
+        "quantity": 5,
+        "sequence": 12,
+        "symbol": "AMZN"
+    },
+    {
+        "buySell": "S",
+        "price": 3020,
+        "quantity": 15,
+        "sequence": 13,
+        "symbol": "AMZN"
+    }
+]
